@@ -6,7 +6,7 @@
     "incremental": true,
     "declaration": true,
     "declarationMap": true,
-    "customConditions": ["@colinhacks/source"],
+    "customConditions": ["@package/comps", "@package/shared"],
 
     // basics
     "lib": ["ESNext", "DOM"],

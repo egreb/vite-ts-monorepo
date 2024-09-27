@@ -1,5 +1,4 @@
-# set up monorepo for pkg-a and pkg-b
 packages:
-  - 'packages/pkg-b'
-  - 'packages/pkg-a'
+  - 'apps/*'
+  - 'packages/*'
   
